@@ -4,6 +4,7 @@
 as Air temperature, process temperature, rotation speed, torque using
 PCA, Data Visualization, Logistic Regression.
 2. Prepared Data for Model training
+3. I have got following accuracy
    <br />
     a.  Logistic Regression Accuracy: 0.966
    <br />
