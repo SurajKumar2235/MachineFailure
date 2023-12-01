@@ -1,11 +1,11 @@
 # MACHINE FAILURE
 
 1. Explored and built a predictive model that led to machine failure such
-as Air temperature, process temperature, rotation speed, torque using
+as Air temperature, process temperature, rotation speed,torque using
 PCA, Data Visualization, Logistic Regression.
-2. Prepared Data for Model training\n
-   
-    --  Logistic Regression Accuracy: 0.966
-    --  Decision Tree Accuracy:       0.981
-    --  Random Forest Accuracy:       0.988
-    --  XGBoost Accuracy:             0.9875
+2. Prepared Data for Model training
+   <br />
+    a.  Logistic Regression Accuracy: 0.966
+    b.  Decision Tree Accuracy:       0.981
+    c.  Random Forest Accuracy:       0.988
+    d.  XGBoost Accuracy:             0.9875
