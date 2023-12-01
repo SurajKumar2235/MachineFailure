@@ -1,7 +1,7 @@
 # MACHINE FAILURE
 
 1. Explored and built a predictive model that led to machine failure such
-as Air temperature, process temperature, rotation speed,torque using
+as Air temperature, process temperature, rotation speed, torque using
 PCA, Data Visualization, Logistic Regression.
 2. Prepared Data for Model training
    <br />
