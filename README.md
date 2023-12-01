@@ -6,6 +6,9 @@ PCA, Data Visualization, Logistic Regression.
 2. Prepared Data for Model training
    <br />
     a.  Logistic Regression Accuracy: 0.966
+   <br />
     b.  Decision Tree Accuracy:       0.981
+   <br />
     c.  Random Forest Accuracy:       0.988
+   <br />
     d.  XGBoost Accuracy:             0.9875
